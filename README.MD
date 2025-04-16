@@ -1,5 +1,9 @@
 
 ### README.md
+<p align="center">
+  <img src="https://svgshare.com/i/yourBannerID.svg" alt="Nyxen-XE Terminal Banner" width="100%">
+</p>
+
 # 🧐 NexusLink v2 by Nyxen-XE
 
 A threaded multi-user TCP chat system made with pure Python.
